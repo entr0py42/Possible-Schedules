@@ -14,8 +14,11 @@ Ders seçim tarihi yaklaştı ve derslerini çakışma olmadan seçerken kalan 2
 run.py dosyasını çalıştır, mümkün olan her ihtimal hem konsola yazılacak hem de tabloya dönüştürülüp schedules.txt içine kaydedilecek
 
 
-Chad BAU'lu değilsen aynı formatlamayı kullanarak derslerini dosyaya ekle.
+## Chad BAU'lu değilsen
+Aynı formatlamayı kullanarak derslerini dosyaya ekle.
+
 Formatlama:
+
 {DERS KODU}\t{DERS ADI}\t{SECTION KODU}\t{GÜN}\t{BAŞLANGIÇ SAATİ}\t{BİTİŞ SAATİ}
 
 Derslerin bizimkiler gibi 30 geçe başlamıyorsa muhtemelen sorun yaşayacaksın.
