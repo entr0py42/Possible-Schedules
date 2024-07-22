@@ -1,0 +1,13 @@
+1
+SEN4013	Yazılım Dersi	3	Çarşamba	12:30	15:30
+SEN4013	Yazılım Dersi	2	Çarşamba	15:30	18:30
+SEN4013	Yazılım Dersi	1	Salı	14:30	17:30
+SEN4991	Bitirme Projesi I	1	Cuma	08:30	9:30
+ESE4207	Enerji Sistemleri Dersi  1	Salı	12:30	14:20
+2
+COP4428	Başka Yazılım Dersi	1	Cuma	15:30	18:20
+3
+SEN4017	Python Dersi	1	Pazartesi	08:30	11:20
+SEN4018	Başka Python Dersi	1	Perşembe	12:30	15:20
+AIN4311	AI Dersi  1	Pazartesi	09:30	12:20
+COP4493	Bulut Dersi	1	Pazartesi	14:30	17:20
